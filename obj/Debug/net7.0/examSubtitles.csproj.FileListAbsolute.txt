@@ -1,0 +1,14 @@
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\bin\Debug\net7.0\examSubtitles.exe
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\bin\Debug\net7.0\examSubtitles.deps.json
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\bin\Debug\net7.0\examSubtitles.runtimeconfig.json
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\bin\Debug\net7.0\examSubtitles.dll
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\bin\Debug\net7.0\examSubtitles.pdb
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\examSubtitles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\examSubtitles.AssemblyInfoInputs.cache
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\examSubtitles.AssemblyInfo.cs
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\examSubtitles.csproj.CoreCompileInputs.cache
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\examSubtitles.dll
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\refint\examSubtitles.dll
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\examSubtitles.pdb
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\examSubtitles.genruntimeconfig.cache
+C:\Users\mag20\source\repos\examSubtitles\examSubtitles\obj\Debug\net7.0\ref\examSubtitles.dll
